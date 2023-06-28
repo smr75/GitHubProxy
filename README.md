@@ -1,2 +1,2 @@
 # GitHubProxy
-RESTful API for interacting with GitHub
+RESTful API for retrieving contributors to a GitHub repo
